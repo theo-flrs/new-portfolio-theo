@@ -17,6 +17,6 @@
 <style>
   nav {
     background-color: #050505;
-    color: #ffffff
+    color: #ffffff;
   }
 </style>
